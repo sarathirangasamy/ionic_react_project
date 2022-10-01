@@ -22,4 +22,4 @@ const Tab4: React.FC = () => {
   );
 };
 
-export default Tab1;
+export default Tab4;
