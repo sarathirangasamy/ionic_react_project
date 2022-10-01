@@ -1,9 +1,11 @@
-.heading{
+.heading-title{
     font-size: 20px;
-    color:red;
+    font-weight: 700;
+    color: aqua;
 }
 
 .heading:hover{
     font-size: 25px;
     color:blue;
+    font-weight: 20px;
 }
